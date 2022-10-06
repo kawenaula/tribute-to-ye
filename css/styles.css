@@ -1,3 +1,10 @@
-body {
-    background-color: bisque;
-}
+    body {
+    background-color: #fe5248;
+    background-image: url(https://wallpaperaccess.com/full/3325760.jpg);
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: antiquewhite;
+    h1 {}
